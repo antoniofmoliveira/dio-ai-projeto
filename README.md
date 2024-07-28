@@ -1,7 +1,7 @@
 # dio-ai-projeto
 projeto para o curso de AI da DIO
 
-Tentativa inicial com o Copilot não funcionou.
+Tentativa inicial com o Copilot não funcionou. Ele me deixou sem resposta após eu recusar o primeiro resultado.
 
 ![copilot1](https://github.com/antoniofmoliveira/dio-ai-projeto/blob/main/copilot1.png)
 
