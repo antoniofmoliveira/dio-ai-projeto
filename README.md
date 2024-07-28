@@ -13,4 +13,5 @@ Então a partir de fotos que eu possuo de um acidente de carro, pedi a uma servi
 
 ![imagem2](https://github.com/antoniofmoliveira/dio-ai-projeto/blob/main/inputs/imagem2.jpeg)   [resultado2](https://github.com/antoniofmoliveira/dio-ai-projeto/blob/main/outputs/OCR2.txt)
 
-Aparentemente o Copilot não está maduro o suficiente para esse tipo de tarefa
+Aparentemente o Copilot não está maduro o suficiente para esse tipo de tarefa. Mesmo o OCR Best não conseguiu ler corretamente as marcas dos veíulos porém fez um ótimo trabalho com as placas.
+
